@@ -1,0 +1,9 @@
+statistic,value
+Chi-square,1301.9365096773004
+Degrees of freedom,72
+Asymptotic p value,5.92108500309821e-225
+Monte Carlo p value,9.999000099990002e-5
+Cramer's V,0.3026259707475301
+Cells with expected count <5,11
+Cells with expected count <1,0
+Total cells,95
