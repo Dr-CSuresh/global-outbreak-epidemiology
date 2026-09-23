@@ -1,0 +1,7 @@
+model,AIC
+Mixed COM-Poisson - spline time,10465.185225238854
+Mixed Poisson - spline time,10594.996713550501
+Mixed Poisson - quadratic time,10630.705050296883
+Mixed Poisson - linear time,11083.987588072503
+Negative-binomial GLM,11742.293686452174
+Poisson GLM,11753.016623804682

@@ -1,0 +1,6 @@
+model,pdHess
+Mixed Poisson - linear time,TRUE
+Mixed negative-binomial - linear time,TRUE
+Mixed Poisson - quadratic time,TRUE
+Mixed Poisson - spline time,TRUE
+Mixed COM-Poisson - spline time,TRUE
