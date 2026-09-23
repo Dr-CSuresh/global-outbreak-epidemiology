@@ -106,7 +106,7 @@ Notable annual counts included:
 
 A three-year centred rolling mean was used to visualise the broader temporal trend while reducing the influence of individual annual fluctuations.
 
-!Temporal trend(figures/temporal_trend_rolling_average.png)
+![Temporal trend](figures/temporal_trend_rolling_average.png)
 
 
 # The 2009 outbreak-reporting spike
@@ -130,7 +130,7 @@ The number of outbreak records by UN region was:
 | Oceania | 170 |
 | Unclassified | 12 |
 
-!Regional distribution(figures/outbreak_records_by_region.png)
+![Regional distribution](figures/outbreak_records_by_region.png)
 
 These counts represent the distribution of reported outbreak records, rather than regional disease incidence or burden.
 
@@ -150,7 +150,7 @@ The most frequently represented diseases included:
 | Meningococcal meningitis | 96 |
 | Middle East respiratory syndrome | 76 |
 
-!Most frequently reported diseases(figures/top_diseases.png)
+![Most frequently reported diseases](figures/top_diseases.png)
 
 
 # Country-level patterns
@@ -214,7 +214,7 @@ Several disease–region combinations occurred more frequently than expected und
 - Zika virus disease – Americas: +8.10
 - Ebola disease – Africa: +6.17
 
-!Disease-region residual heatmap(figures/disease_region_residual_heatmap.png)
+![Disease-region residual heatmap](figures/disease_region_residual_heatmap.png)
 
 These findings should not be interpreted as evidence that geographic region causes disease occurrence.
 
@@ -316,7 +316,7 @@ Excluding COVID-19:
 | 2024 | 159 |
 | 2025 | 266 |
 
-!COVID sensitivity(figures/covid_exclusion_model.png)
+![COVID sensitivity](figures/covid_exclusion_model.png)
 
 The COVID-excluded COM-Poisson model showed good diagnostic behaviour:
 
@@ -366,11 +366,11 @@ Following geometry matching and aggregation, 227 spatial units were included in 
 
 # Global distribution of outbreak records
 
-!Outbreak records map(figures/outbreak_records_map.png)
+![Outbreak records map](figures/outbreak_records_map.png)
 
 # Global disease richness
 
-!Disease richness map(figures/disease_richness_map.png)
+![Disease richness map](figures/disease_richness_map.png)
 
 # Spatial autocorrelation
 
