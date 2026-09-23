@@ -1,0 +1,5 @@
+outcome,neighbours,morans_I,p_value
+Outbreak records,k = 4,0.2988740130147614,0.001
+Disease richness,k = 4,0.2139278369100649,0.001
+Outbreak records,k = 6,0.27521824788539506,0.001
+Disease richness,k = 6,0.19653511658924017,0.001
