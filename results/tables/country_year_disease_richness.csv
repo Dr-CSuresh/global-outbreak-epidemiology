@@ -1,0 +1,2416 @@
+country,year,diseases_reported
+Congo Democratic Republic of the,2024,10
+United Kingdom of Great Britain and Northern Ireland,2022,10
+China,2025,7
+China,2023,6
+Congo,2023,6
+France,2022,6
+Nigeria,2017,6
+Nigeria,2023,6
+Spain,2022,6
+Thailand,2025,6
+Bangladesh,2025,5
+Bolivia (Plurinational State of),2025,5
+Congo Democratic Republic of the,2021,5
+Congo Democratic Republic of the,2022,5
+France,2025,5
+French Guiana,2020,5
+India,2025,5
+Ireland,2022,5
+Netherlands,2022,5
+Nigeria,2022,5
+Pakistan,2022,5
+Sweden,2022,5
+United States of America,2022,5
+Afghanistan,1999,4
+Argentina,2022,4
+Argentina,2023,4
+Bangladesh,2023,4
+Belgium,2022,4
+Brazil,2023,4
+Brazil,2024,4
+Brazil,2025,4
+Cameroon,2021,4
+Cameroon,2022,4
+Colombia,2025,4
+Congo Democratic Republic of the,2007,4
+Congo Democratic Republic of the,2020,4
+Congo Democratic Republic of the,2023,4
+Congo Democratic Republic of the,2025,4
+Côte d'Ivoire,2024,4
+Denmark,2022,4
+Ethiopia,2023,4
+Ethiopia,2025,4
+France,2017,4
+Germany,2022,4
+Ghana,1996,4
+Ghana,2022,4
+Guatemala,1998,4
+Guinea,2021,4
+Honduras,1998,4
+India,2021,4
+Israel,2022,4
+Italy,2025,4
+Kenya,2023,4
+Kenya,2025,4
+Mozambique,2025,4
+Nicaragua,1998,4
+Nigeria,2019,4
+Nigeria,2025,4
+Norway,2022,4
+Pakistan,2019,4
+Paraguay,2023,4
+Peru,2023,4
+Senegal,2025,4
+South Africa,2025,4
+Sudan,1999,4
+Sudan,2004,4
+Sudan,2019,4
+Tanzania United Republic of,2025,4
+Uganda,2025,4
+United Kingdom of Great Britain and Northern Ireland,2023,4
+United States of America,2016,4
+United States of America,2025,4
+Afghanistan,2022,3
+Algeria,2025,3
+Argentina,2025,3
+Australia,2022,3
+Australia,2024,3
+Australia,2025,3
+Austria,2022,3
+Bangladesh,2022,3
+Bangladesh,2024,3
+Barbados,2024,3
+Belgium,2025,3
+Belize,2025,3
+Benin,2022,3
+Bolivia (Plurinational State of),2023,3
+Bolivia (Plurinational State of),2024,3
+Brazil,1998,3
+Brazil,1999,3
+Brazil,2022,3
+Burkina Faso,2001,3
+Burkina Faso,2003,3
+Burkina Faso,2024,3
+Burundi,2023,3
+Cambodia,1998,3
+Cambodia,2012,3
+Cambodia,2024,3
+Cameroon,2010,3
+Cameroon,2023,3
+Canada,2003,3
+Canada,2022,3
+Canada,2025,3
+Central African Republic,2021,3
+Central African Republic,2022,3
+Chad,2001,3
+Chad,2004,3
+Chad,2010,3
+Chad,2021,3
+Chad,2022,3
+Chad,2023,3
+Chad,2024,3
+Chile,2023,3
+Chile,2025,3
+China,2016,3
+China,2022,3
+China,2024,3
+Colombia,2024,3
+Congo,2021,3
+Congo,2022,3
+Congo Democratic Republic of the,1999,3
+Congo Democratic Republic of the,2002,3
+Congo Democratic Republic of the,2018,3
+Congo Democratic Republic of the,2019,3
+Costa Rica,2022,3
+Costa Rica,2025,3
+Cuba,2024,3
+Côte d'Ivoire,2008,3
+Côte d'Ivoire,2021,3
+Côte d'Ivoire,2023,3
+Côte d'Ivoire,2025,3
+Dominican Republic,2023,3
+Ecuador,2023,3
+Ecuador,2024,3
+Ecuador,2025,3
+Ethiopia,2020,3
+Ethiopia,2024,3
+France,2003,3
+France,2019,3
+France,2023,3
+Ghana,1997,3
+Ghana,2021,3
+Ghana,2024,3
+Greece,2022,3
+Greece,2025,3
+Guinea,2025,3
+Guyana,2024,3
+Haiti,2025,3
+India,1996,3
+India,2003,3
+India,2006,3
+India,2024,3
+Indonesia,2022,3
+Indonesia,2023,3
+Indonesia,2025,3
+Iraq,2022,3
+Ireland,2025,3
+Israel,2025,3
+Italy,2022,3
+Kenya,2018,3
+Kenya,2021,3
+Kenya,2022,3
+Kenya,2024,3
+Korea Republic of,2022,3
+Latvia,2022,3
+Lebanon,2022,3
+Liberia,1996,3
+Luxembourg,2022,3
+Malawi,2022,3
+Mauritania,2025,3
+Mexico,2022,3
+Mexico,2023,3
+Mexico,2024,3
+Mexico,2025,3
+Mozambique,2022,3
+Nepal,2022,3
+Nepal,2023,3
+Nepal,2025,3
+Netherlands,2025,3
+Niger,2021,3
+Niger,2022,3
+Niger,2023,3
+Niger,2024,3
+Niger,2025,3
+Nigeria,2009,3
+Nigeria,2018,3
+Nigeria,2020,3
+Nigeria,2021,3
+Pakistan,2023,3
+Panama,2024,3
+Panama,2025,3
+Peru,2024,3
+Peru,2025,3
+Philippines,1996,3
+Poland,2022,3
+Poland,2023,3
+Portugal,2022,3
+Qatar,2022,3
+Romania,2022,3
+Russian Federation,2025,3
+Rwanda,1996,3
+Rwanda,2024,3
+Rwanda,2025,3
+Saudi Arabia,2025,3
+Serbia,2022,3
+Singapore,2022,3
+Slovakia,2022,3
+Slovenia,2022,3
+Somalia,1998,3
+Somalia,2022,3
+Somalia,2025,3
+South Sudan,2021,3
+South Sudan,2023,3
+Sudan,2023,3
+Sweden,2024,3
+Tanzania United Republic of,2022,3
+Tanzania United Republic of,2023,3
+Togo,2021,3
+Togo,2023,3
+Togo,2025,3
+Uganda,2007,3
+Uganda,2022,3
+Uganda,2023,3
+Uganda,2024,3
+United Kingdom of Great Britain and Northern Ireland,2003,3
+United Kingdom of Great Britain and Northern Ireland,2025,3
+United States of America,1999,3
+United States of America,2014,3
+United States of America,2021,3
+United States of America,2023,3
+United States of America,2024,3
+Uruguay,2024,3
+Viet Nam,2008,3
+Zambia,2023,3
+Zambia,2025,3
+Afghanistan,1998,2
+Afghanistan,2000,2
+Afghanistan,2002,2
+Afghanistan,2003,2
+Afghanistan,2023,2
+Afghanistan,2024,2
+Afghanistan,2025,2
+Albania,2025,2
+Algeria,2022,2
+Angola,1999,2
+Angola,2005,2
+Angola,2007,2
+Angola,2021,2
+Angola,2024,2
+Argentina,2024,2
+Armenia,2025,2
+Aruba,2023,2
+Austria,2023,2
+Austria,2024,2
+Austria,2025,2
+Azerbaijan,2025,2
+Bahamas,2023,2
+Bahamas,2024,2
+Barbados,2023,2
+Belarus,2025,2
+Belize,2023,2
+Belize,2024,2
+Benin,1996,2
+Benin,2001,2
+Benin,2008,2
+Benin,2021,2
+Bermuda,2023,2
+Bhutan,2025,2
+Bolivia (Plurinational State of),1997,2
+Bolivia (Plurinational State of),1999,2
+Brazil,2003,2
+Brazil,2008,2
+Brazil,2014,2
+Brazil,2015,2
+Brazil,2018,2
+Brazil,2019,2
+Brazil,2020,2
+Brazil,2021,2
+Brunei Darussalam,2025,2
+Bulgaria,2022,2
+Burkina Faso,1996,2
+Burkina Faso,2004,2
+Burkina Faso,2008,2
+Burkina Faso,2017,2
+Burkina Faso,2020,2
+Burkina Faso,2021,2
+Burkina Faso,2022,2
+Burundi,1997,2
+Burundi,1999,2
+Burundi,2020,2
+Burundi,2022,2
+Burundi,2024,2
+Burundi,2025,2
+Cabo Verde,2009,2
+Cabo Verde,2023,2
+Cambodia,2023,2
+Cameroon,1998,2
+Cameroon,2009,2
+Cameroon,2013,2
+Cameroon,2018,2
+Cameroon,2024,2
+Cameroon,2025,2
+Canada,2000,2
+Canada,2015,2
+Canada,2024,2
+Cayman Islands,2024,2
+Central African Republic,2001,2
+Central African Republic,2008,2
+Central African Republic,2020,2
+Central African Republic,2023,2
+Central African Republic,2024,2
+Chad,1996,2
+Chad,2011,2
+Chad,2019,2
+Chad,2020,2
+Chad,2025,2
+Chile,2020,2
+Chile,2024,2
+China,2004,2
+China,2005,2
+China,2008,2
+China,2015,2
+China,2020,2
+China,2021,2
+Colombia,2022,2
+Colombia,2023,2
+Congo,1999,2
+Congo,2002,2
+Congo,2010,2
+Congo,2024,2
+Congo,2025,2
+Congo Democratic Republic of the,1996,2
+Congo Democratic Republic of the,1997,2
+Congo Democratic Republic of the,1998,2
+Congo Democratic Republic of the,2000,2
+Congo Democratic Republic of the,2001,2
+Congo Democratic Republic of the,2008,2
+Congo Democratic Republic of the,2009,2
+Congo Democratic Republic of the,2010,2
+Congo Democratic Republic of the,2011,2
+Congo Democratic Republic of the,2012,2
+Congo Democratic Republic of the,2014,2
+Congo Democratic Republic of the,2017,2
+Costa Rica,2023,2
+Costa Rica,2024,2
+Croatia,2023,2
+Croatia,2025,2
+Cyprus,2022,2
+Czechia,2022,2
+Czechia,2025,2
+Côte d'Ivoire,1996,2
+Côte d'Ivoire,2001,2
+Côte d'Ivoire,2006,2
+Côte d'Ivoire,2011,2
+Côte d'Ivoire,2022,2
+Denmark,2024,2
+Denmark,2025,2
+Dominica,2023,2
+El Salvador,1998,2
+El Salvador,2023,2
+El Salvador,2024,2
+Equatorial Guinea,2023,2
+Estonia,2025,2
+Ethiopia,2000,2
+Ethiopia,2001,2
+Ethiopia,2021,2
+Ethiopia,2022,2
+Finland,2022,2
+Finland,2025,2
+France,2000,2
+France,2004,2
+France,2011,2
+France,2024,2
+French Guiana,2022,2
+French Guiana,2023,2
+French Polynesia,2024,2
+Gabon,2002,2
+Gabon,2020,2
+Gabon,2025,2
+Georgia,2022,2
+Georgia,2025,2
+Germany,2003,2
+Germany,2006,2
+Germany,2011,2
+Germany,2015,2
+Germany,2023,2
+Germany,2024,2
+Germany,2025,2
+Ghana,2008,2
+Ghana,2012,2
+Ghana,2023,2
+Ghana,2025,2
+Gibraltar,2022,2
+Grenada,2023,2
+Guadeloupe,2020,2
+Guadeloupe,2023,2
+Guatemala,2023,2
+Guatemala,2024,2
+Guatemala,2025,2
+Guinea,2001,2
+Guinea,2005,2
+Guinea,2010,2
+Guinea,2020,2
+Guinea,2022,2
+Guinea,2023,2
+Guinea,2024,2
+Guinea-Bissau,1999,2
+Guyana,2023,2
+Guyana,2025,2
+Haiti,2022,2
+Haiti,2023,2
+Honduras,2023,2
+Honduras,2024,2
+Honduras,2025,2
+Hong Kong,1998,2
+Hong Kong,2003,2
+Hungary,2022,2
+Hungary,2025,2
+Iceland,2022,2
+Iceland,2025,2
+India,2005,2
+India,2022,2
+India,2023,2
+Indonesia,2004,2
+Indonesia,2005,2
+Indonesia,2024,2
+Iran (Islamic Republic of),2022,2
+Iran (Islamic Republic of),2024,2
+Italy,2003,2
+Italy,2015,2
+Italy,2017,2
+Italy,2023,2
+Jamaica,2023,2
+Jamaica,2024,2
+Japan,2022,2
+Japan,2025,2
+Kenya,1999,2
+Kenya,2006,2
+Kenya,2016,2
+Korea Republic of,2015,2
+Lao People's Democratic Republic,2020,2
+Lao People's Democratic Republic,2024,2
+Latvia,2025,2
+Lebanon,2023,2
+Lebanon,2025,2
+Liberia,1998,2
+Liberia,2017,2
+Liberia,2021,2
+Liberia,2024,2
+Lithuania,2025,2
+Luxembourg,2025,2
+Madagascar,2002,2
+Madagascar,2014,2
+Madagascar,2015,2
+Madagascar,2021,2
+Madagascar,2025,2
+Malawi,2002,2
+Malawi,2023,2
+Malawi,2025,2
+Malaysia,1996,2
+Malaysia,1997,2
+Malaysia,1999,2
+Malaysia,2024,2
+Malaysia,2025,2
+Maldives,2022,2
+Maldives,2023,2
+Mali,1996,2
+Mali,2005,2
+Mali,2021,2
+Mali,2024,2
+Mali,2025,2
+Malta,2022,2
+Malta,2025,2
+Martinique,2020,2
+Martinique,2023,2
+Mauritania,2020,2
+Mauritania,2022,2
+Mauritania,2023,2
+Mauritania,2024,2
+Mauritius,2023,2
+Mauritius,2024,2
+Mauritius,2025,2
+Mayotte,2020,2
+Mexico,1996,2
+Mexico,2015,2
+Mexico,2020,2
+Micronesia (Federated States of),2024,2
+Moldova Republic of,2022,2
+Moldova Republic of,2025,2
+Morocco,2022,2
+Morocco,2025,2
+Mozambique,1997,2
+Mozambique,1998,2
+Mozambique,2023,2
+Myanmar,2019,2
+Myanmar,2024,2
+Myanmar,2025,2
+Namibia,2025,2
+Nepal,2024,2
+Netherlands,2000,2
+Netherlands,2018,2
+Netherlands,2023,2
+Netherlands,2024,2
+New Caledonia,2024,2
+New Caledonia,2025,2
+Nicaragua,2023,2
+Nicaragua,2024,2
+Niger,1996,2
+Niger,2001,2
+Niger,2002,2
+Niger,2008,2
+Niger,2010,2
+Niger,2018,2
+Nigeria,1996,2
+Nigeria,2004,2
+Nigeria,2008,2
+Nigeria,2010,2
+Nigeria,2012,2
+Nigeria,2016,2
+Nigeria,2024,2
+North Macedonia,2025,2
+Norway,2001,2
+Norway,2025,2
+Oman,2022,2
+Oman,2023,2
+Oman,2025,2
+Pakistan,2010,2
+Pakistan,2021,2
+Pakistan,2025,2
+Palau,2024,2
+Palestine State of,2020,2
+Palestine State of,2022,2
+Panama,2022,2
+Panama,2023,2
+Paraguay,2025,2
+Peru,2010,2
+Peru,2016,2
+Philippines,2009,2
+Philippines,2019,2
+Philippines,2022,2
+Philippines,2023,2
+Poland,2025,2
+Portugal,2025,2
+Puerto Rico,2023,2
+Qatar,2020,2
+Qatar,2025,2
+Romania,2011,2
+Romania,2025,2
+Russian Federation,1998,2
+Russian Federation,2010,2
+Russian Federation,2021,2
+Rwanda,1997,2
+Rwanda,1999,2
+Saint Barthélemy,2020,2
+Saint Barthélemy,2023,2
+Saint Kitts and Nevis,2023,2
+Saint Lucia,2023,2
+Saint Lucia,2024,2
+Saint Lucia,2025,2
+Saint Martin (French part),2020,2
+Saint Martin (French part),2023,2
+Saint Vincent and the Grenadines,2023,2
+Samoa,2024,2
+Sao Tome and Principe,2022,2
+Sao Tome and Principe,2023,2
+Sao Tome and Principe,2024,2
+Saudi Arabia,2020,2
+Saudi Arabia,2021,2
+Saudi Arabia,2022,2
+Saudi Arabia,2023,2
+Senegal,2010,2
+Senegal,2020,2
+Senegal,2021,2
+Senegal,2024,2
+Serbia,2025,2
+Seychelles,2023,2
+Seychelles,2024,2
+Sierra Leone,2021,2
+Sierra Leone,2022,2
+Sierra Leone,2023,2
+Singapore,2024,2
+Singapore,2025,2
+Sint Maarten (Dutch part),2023,2
+Slovakia,2025,2
+Slovenia,2025,2
+Somalia,2002,2
+Somalia,2018,2
+Somalia,2019,2
+Somalia,2023,2
+South Africa,1996,2
+South Africa,2008,2
+South Africa,2010,2
+South Africa,2022,2
+South Africa,2023,2
+South Africa,2024,2
+South Sudan,2013,2
+South Sudan,2020,2
+South Sudan,2022,2
+South Sudan,2024,2
+South Sudan,2025,2
+Spain,2003,2
+Spain,2019,2
+Spain,2023,2
+Spain,2025,2
+Sri Lanka,2023,2
+Sri Lanka,2024,2
+Sri Lanka,2025,2
+Sudan,2005,2
+Sudan,2006,2
+Sudan,2007,2
+Sudan,2009,2
+Sudan,2012,2
+Sudan,2020,2
+Sudan,2022,2
+Sudan,2025,2
+Suriname,2023,2
+Suriname,2024,2
+Suriname,2025,2
+Sweden,2023,2
+Switzerland,2003,2
+Switzerland,2022,2
+Switzerland,2023,2
+Switzerland,2025,2
+Syrian Arab Republic,2022,2
+Taiwan Province of China,1998,2
+Tanzania United Republic of,1996,2
+Tanzania United Republic of,1998,2
+Thailand,2003,2
+Thailand,2006,2
+Thailand,2023,2
+Thailand,2024,2
+Timor-Leste,2022,2
+Togo,1996,2
+Togo,2008,2
+Togo,2017,2
+Togo,2020,2
+Togo,2022,2
+Togo,2024,2
+Tonga,2024,2
+Trinidad and Tobago,2023,2
+Turkey,2006,2
+Turkey,2023,2
+Turkey,2025,2
+Turks and Caicos Islands,2023,2
+Turks and Caicos Islands,2024,2
+Uganda,1998,2
+Uganda,2000,2
+Uganda,2011,2
+Uganda,2012,2
+Uganda,2020,2
+Ukraine,2021,2
+Ukraine,2025,2
+United Arab Emirates,2020,2
+United Arab Emirates,2021,2
+United Arab Emirates,2022,2
+United Arab Emirates,2023,2
+United Arab Emirates,2025,2
+United Kingdom of Great Britain and Northern Ireland,2000,2
+United Kingdom of Great Britain and Northern Ireland,2001,2
+United Kingdom of Great Britain and Northern Ireland,2011,2
+United Kingdom of Great Britain and Northern Ireland,2021,2
+United States of America,1996,2
+United States of America,2000,2
+United States of America,2003,2
+United States of America,2004,2
+United States of America,2011,2
+United States of America,2015,2
+United States of America,2017,2
+Uruguay,2023,2
+Uzbekistan,2025,2
+Venezuela (Bolivarian Republic of),1998,2
+Venezuela (Bolivarian Republic of),2019,2
+Venezuela (Bolivarian Republic of),2021,2
+Venezuela (Bolivarian Republic of),2022,2
+Venezuela (Bolivarian Republic of),2023,2
+Viet Nam,2024,2
+Virgin Islands (British),2023,2
+Virgin Islands (British),2024,2
+Wallis and Futuna,2024,2
+Yemen,2000,2
+Yemen,2021,2
+Yemen,2022,2
+Yemen,2025,2
+Zambia,2008,2
+Zambia,2022,2
+Zimbabwe,1999,2
+Zimbabwe,2009,2
+Zimbabwe,2022,2
+Zimbabwe,2025,2
+Afghanistan,2001,1
+Afghanistan,2005,1
+Afghanistan,2009,1
+Afghanistan,2019,1
+Afghanistan,2020,1
+Afghanistan,2021,1
+Albania,1996,1
+Albania,2009,1
+Albania,2011,1
+Albania,2020,1
+Albania,2021,1
+Albania,2022,1
+Albania,2023,1
+Albania,2024,1
+Algeria,1996,1
+Algeria,2003,1
+Algeria,2004,1
+Algeria,2009,1
+Algeria,2014,1
+Algeria,2018,1
+Algeria,2020,1
+Algeria,2021,1
+Algeria,2023,1
+Algeria,2024,1
+American Samoa,2009,1
+American Samoa,2019,1
+American Samoa,2021,1
+American Samoa,2022,1
+American Samoa,2023,1
+Andorra,2009,1
+Andorra,2020,1
+Andorra,2021,1
+Andorra,2022,1
+Andorra,2023,1
+Angola,1996,1
+Angola,1998,1
+Angola,2001,1
+Angola,2006,1
+Angola,2009,1
+Angola,2010,1
+Angola,2011,1
+Angola,2016,1
+Angola,2019,1
+Angola,2020,1
+Angola,2022,1
+Angola,2023,1
+Angola,2025,1
+Anguilla,2020,1
+Anguilla,2021,1
+Anguilla,2022,1
+Anguilla,2023,1
+Antigua and Barbuda,2009,1
+Antigua and Barbuda,2020,1
+Antigua and Barbuda,2021,1
+Antigua and Barbuda,2022,1
+Antigua and Barbuda,2023,1
+Antigua and Barbuda,2024,1
+Antigua and Barbuda,2025,1
+Argentina,1996,1
+Argentina,2009,1
+Argentina,2010,1
+Argentina,2016,1
+Argentina,2019,1
+Argentina,2020,1
+Argentina,2021,1
+Armenia,1998,1
+Armenia,2009,1
+Armenia,2020,1
+Armenia,2021,1
+Armenia,2022,1
+Armenia,2023,1
+Armenia,2024,1
+Aruba,2009,1
+Aruba,2020,1
+Aruba,2021,1
+Aruba,2022,1
+Aruba,2024,1
+Australia,2000,1
+Australia,2003,1
+Australia,2009,1
+Australia,2010,1
+Australia,2018,1
+Australia,2019,1
+Australia,2020,1
+Australia,2021,1
+Australia,2023,1
+Austria,2003,1
+Austria,2004,1
+Austria,2006,1
+Austria,2009,1
+Austria,2011,1
+Austria,2014,1
+Austria,2016,1
+Austria,2017,1
+Austria,2020,1
+Austria,2021,1
+Azerbaijan,2006,1
+Azerbaijan,2009,1
+Azerbaijan,2020,1
+Azerbaijan,2021,1
+Azerbaijan,2022,1
+Azerbaijan,2023,1
+Azerbaijan,2024,1
+Bahamas,2009,1
+Bahamas,2020,1
+Bahamas,2021,1
+Bahamas,2022,1
+Bahamas,2025,1
+Bahrain,2009,1
+Bahrain,2016,1
+Bahrain,2020,1
+Bahrain,2021,1
+Bahrain,2022,1
+Bangladesh,1998,1
+Bangladesh,2001,1
+Bangladesh,2002,1
+Bangladesh,2004,1
+Bangladesh,2006,1
+Bangladesh,2008,1
+Bangladesh,2009,1
+Bangladesh,2010,1
+Bangladesh,2011,1
+Bangladesh,2012,1
+Bangladesh,2017,1
+Bangladesh,2019,1
+Bangladesh,2020,1
+Bangladesh,2021,1
+Barbados,2009,1
+Barbados,2016,1
+Barbados,2020,1
+Barbados,2021,1
+Barbados,2022,1
+Barbados,2025,1
+Belarus,2020,1
+Belarus,2021,1
+Belarus,2022,1
+Belarus,2024,1
+Belgium,1999,1
+Belgium,2001,1
+Belgium,2003,1
+Belgium,2004,1
+Belgium,2009,1
+Belgium,2017,1
+Belgium,2020,1
+Belgium,2021,1
+Belgium,2023,1
+Belgium,2024,1
+Belize,1998,1
+Belize,2009,1
+Belize,2020,1
+Belize,2021,1
+Belize,2022,1
+Benin,1997,1
+Benin,2003,1
+Benin,2005,1
+Benin,2012,1
+Benin,2013,1
+Benin,2016,1
+Benin,2017,1
+Benin,2019,1
+Benin,2020,1
+Benin,2023,1
+Benin,2024,1
+Bermuda,2009,1
+Bermuda,2020,1
+Bermuda,2021,1
+Bermuda,2022,1
+Bhutan,1998,1
+Bhutan,2009,1
+Bhutan,2010,1
+Bhutan,2020,1
+Bhutan,2021,1
+Bhutan,2022,1
+Bhutan,2023,1
+Bolivia (Plurinational State of),1998,1
+Bolivia (Plurinational State of),2009,1
+Bolivia (Plurinational State of),2010,1
+Bolivia (Plurinational State of),2016,1
+Bolivia (Plurinational State of),2020,1
+Bolivia (Plurinational State of),2021,1
+Bolivia (Plurinational State of),2022,1
+Bonaire Sint Eustatius and Saba,2009,1
+Bonaire Sint Eustatius and Saba,2020,1
+Bonaire Sint Eustatius and Saba,2021,1
+Bonaire Sint Eustatius and Saba,2022,1
+Bonaire Sint Eustatius and Saba,2023,1
+Bonaire Sint Eustatius and Saba,2024,1
+Bosnia and Herzegovina,1996,1
+Bosnia and Herzegovina,2009,1
+Bosnia and Herzegovina,2015,1
+Bosnia and Herzegovina,2020,1
+Bosnia and Herzegovina,2021,1
+Bosnia and Herzegovina,2022,1
+Bosnia and Herzegovina,2023,1
+Bosnia and Herzegovina,2024,1
+Bosnia and Herzegovina,2025,1
+Botswana,2009,1
+Botswana,2020,1
+Botswana,2021,1
+Botswana,2022,1
+Botswana,2023,1
+Botswana,2024,1
+Brazil,1996,1
+Brazil,2000,1
+Brazil,2001,1
+Brazil,2002,1
+Brazil,2009,1
+Brazil,2010,1
+Brazil,2011,1
+Brazil,2017,1
+Brunei Darussalam,1999,1
+Brunei Darussalam,2009,1
+Brunei Darussalam,2020,1
+Brunei Darussalam,2021,1
+Brunei Darussalam,2022,1
+Brunei Darussalam,2023,1
+Brunei Darussalam,2024,1
+Bulgaria,2003,1
+Bulgaria,2006,1
+Bulgaria,2009,1
+Bulgaria,2020,1
+Bulgaria,2021,1
+Bulgaria,2023,1
+Bulgaria,2024,1
+Bulgaria,2025,1
+Burkina Faso,1997,1
+Burkina Faso,1998,1
+Burkina Faso,2002,1
+Burkina Faso,2005,1
+Burkina Faso,2006,1
+Burkina Faso,2007,1
+Burkina Faso,2012,1
+Burkina Faso,2013,1
+Burkina Faso,2016,1
+Burkina Faso,2023,1
+Burkina Faso,2025,1
+Burundi,1996,1
+Burundi,2002,1
+Burundi,2004,1
+Burundi,2009,1
+Burundi,2021,1
+Cabo Verde,1996,1
+Cabo Verde,2015,1
+Cabo Verde,2020,1
+Cabo Verde,2021,1
+Cabo Verde,2022,1
+Cabo Verde,2024,1
+Cabo Verde,2025,1
+Cambodia,1999,1
+Cambodia,2004,1
+Cambodia,2005,1
+Cambodia,2007,1
+Cambodia,2008,1
+Cambodia,2009,1
+Cambodia,2010,1
+Cambodia,2011,1
+Cambodia,2013,1
+Cambodia,2020,1
+Cambodia,2021,1
+Cambodia,2022,1
+Cambodia,2025,1
+Cameroon,1996,1
+Cameroon,2001,1
+Cameroon,2004,1
+Cameroon,2012,1
+Cameroon,2014,1
+Cameroon,2019,1
+Cameroon,2020,1
+Canada,1998,1
+Canada,2002,1
+Canada,2004,1
+Canada,2006,1
+Canada,2009,1
+Canada,2011,1
+Canada,2014,1
+Canada,2020,1
+Canada,2021,1
+Canada,2023,1
+Cayman Islands,2009,1
+Cayman Islands,2020,1
+Cayman Islands,2021,1
+Cayman Islands,2022,1
+Cayman Islands,2023,1
+Central African Republic,1996,1
+Central African Republic,1997,1
+Central African Republic,2000,1
+Central African Republic,2003,1
+Central African Republic,2004,1
+Central African Republic,2009,1
+Central African Republic,2012,1
+Central African Republic,2016,1
+Central African Republic,2019,1
+Central African Republic,2025,1
+Chad,1998,1
+Chad,2003,1
+Chad,2005,1
+Chad,2007,1
+Chad,2008,1
+Chad,2009,1
+Chad,2012,1
+Chad,2013,1
+Chad,2017,1
+Chile,1998,1
+Chile,2003,1
+Chile,2004,1
+Chile,2009,1
+Chile,2010,1
+Chile,2011,1
+Chile,2015,1
+Chile,2016,1
+Chile,2021,1
+Chile,2022,1
+China,1998,1
+China,1999,1
+China,2001,1
+China,2003,1
+China,2006,1
+China,2007,1
+China,2009,1
+China,2010,1
+China,2011,1
+China,2012,1
+China,2013,1
+China,2014,1
+China,2017,1
+China,2018,1
+China,2019,1
+Colombia,1998,1
+Colombia,1999,1
+Colombia,2003,1
+Colombia,2009,1
+Colombia,2010,1
+Colombia,2011,1
+Colombia,2015,1
+Colombia,2019,1
+Colombia,2020,1
+Colombia,2021,1
+Comoros,1998,1
+Comoros,1999,1
+Comoros,2020,1
+Comoros,2021,1
+Comoros,2022,1
+Comoros,2023,1
+Comoros,2025,1
+Congo,1998,1
+Congo,2001,1
+Congo,2003,1
+Congo,2004,1
+Congo,2005,1
+Congo,2009,1
+Congo,2012,1
+Congo,2018,1
+Congo,2019,1
+Congo,2020,1
+Congo Democratic Republic of the,2003,1
+Congo Democratic Republic of the,2004,1
+Congo Democratic Republic of the,2005,1
+Congo Democratic Republic of the,2006,1
+Congo Democratic Republic of the,2013,1
+Congo Democratic Republic of the,2015,1
+Congo Democratic Republic of the,2016,1
+Cook Islands,1997,1
+Cook Islands,1998,1
+Cook Islands,2009,1
+Cook Islands,2022,1
+Cook Islands,2023,1
+Cook Islands,2024,1
+Cook Islands,2025,1
+Costa Rica,2009,1
+Costa Rica,2010,1
+Costa Rica,2016,1
+Costa Rica,2020,1
+Costa Rica,2021,1
+Croatia,2004,1
+Croatia,2009,1
+Croatia,2015,1
+Croatia,2020,1
+Croatia,2021,1
+Croatia,2022,1
+Croatia,2024,1
+Cuba,1997,1
+Cuba,2009,1
+Cuba,2010,1
+Cuba,2016,1
+Cuba,2020,1
+Cuba,2021,1
+Cuba,2022,1
+Cuba,2023,1
+Cuba,2025,1
+Curaçao,2009,1
+Curaçao,2016,1
+Curaçao,2020,1
+Curaçao,2021,1
+Curaçao,2022,1
+Curaçao,2023,1
+Curaçao,2024,1
+Cyprus,1996,1
+Cyprus,2009,1
+Cyprus,2010,1
+Cyprus,2020,1
+Cyprus,2021,1
+Cyprus,2023,1
+Cyprus,2024,1
+Cyprus,2025,1
+Czechia,2003,1
+Czechia,2004,1
+Czechia,2009,1
+Czechia,2020,1
+Czechia,2021,1
+Czechia,2023,1
+Czechia,2024,1
+Côte d'Ivoire,2002,1
+Côte d'Ivoire,2009,1
+Côte d'Ivoire,2010,1
+Côte d'Ivoire,2012,1
+Côte d'Ivoire,2017,1
+Côte d'Ivoire,2019,1
+Côte d'Ivoire,2020,1
+Denmark,2001,1
+Denmark,2003,1
+Denmark,2004,1
+Denmark,2009,1
+Denmark,2011,1
+Denmark,2017,1
+Denmark,2020,1
+Denmark,2021,1
+Denmark,2023,1
+Djibouti,1997,1
+Djibouti,2006,1
+Djibouti,2009,1
+Djibouti,2020,1
+Djibouti,2021,1
+Djibouti,2022,1
+Dominica,2009,1
+Dominica,2016,1
+Dominica,2020,1
+Dominica,2021,1
+Dominica,2022,1
+Dominican Republic,2009,1
+Dominican Republic,2010,1
+Dominican Republic,2016,1
+Dominican Republic,2020,1
+Dominican Republic,2021,1
+Dominican Republic,2022,1
+Dominican Republic,2024,1
+Dominican Republic,2025,1
+Ecuador,1996,1
+Ecuador,1998,1
+Ecuador,2009,1
+Ecuador,2011,1
+Ecuador,2016,1
+Ecuador,2020,1
+Ecuador,2021,1
+Ecuador,2022,1
+Egypt,2006,1
+Egypt,2007,1
+Egypt,2008,1
+Egypt,2009,1
+Egypt,2010,1
+Egypt,2011,1
+Egypt,2012,1
+Egypt,2014,1
+Egypt,2015,1
+Egypt,2020,1
+Egypt,2021,1
+Egypt,2022,1
+Egypt,2023,1
+Egypt,2025,1
+El Salvador,2002,1
+El Salvador,2009,1
+El Salvador,2010,1
+El Salvador,2015,1
+El Salvador,2020,1
+El Salvador,2021,1
+El Salvador,2022,1
+El Salvador,2025,1
+Equatorial Guinea,2014,1
+Equatorial Guinea,2020,1
+Equatorial Guinea,2021,1
+Equatorial Guinea,2022,1
+Eritrea,2020,1
+Eritrea,2021,1
+Eritrea,2022,1
+Eritrea,2024,1
+Estonia,2009,1
+Estonia,2020,1
+Estonia,2021,1
+Estonia,2022,1
+Estonia,2023,1
+Estonia,2024,1
+Eswatini,2009,1
+Eswatini,2020,1
+Eswatini,2021,1
+Eswatini,2022,1
+Eswatini,2023,1
+Eswatini,2024,1
+Ethiopia,1999,1
+Ethiopia,2002,1
+Ethiopia,2005,1
+Ethiopia,2006,1
+Ethiopia,2008,1
+Ethiopia,2009,1
+Ethiopia,2011,1
+Ethiopia,2013,1
+Ethiopia,2019,1
+Falkland Islands (Malvinas),2009,1
+Falkland Islands (Malvinas),2020,1
+Falkland Islands (Malvinas),2021,1
+Falkland Islands (Malvinas),2022,1
+Faroe Islands,2020,1
+Faroe Islands,2021,1
+Faroe Islands,2022,1
+Fiji,1998,1
+Fiji,1999,1
+Fiji,2009,1
+Fiji,2019,1
+Fiji,2020,1
+Fiji,2021,1
+Fiji,2022,1
+Fiji,2023,1
+Fiji,2024,1
+Fiji,2025,1
+Finland,2003,1
+Finland,2004,1
+Finland,2009,1
+Finland,2017,1
+Finland,2020,1
+Finland,2021,1
+Finland,2023,1
+Finland,2024,1
+France,1998,1
+France,1999,1
+France,2001,1
+France,2006,1
+France,2009,1
+France,2013,1
+France,2014,1
+France,2016,1
+France,2018,1
+France,2020,1
+France,2021,1
+French Guiana,2009,1
+French Guiana,2021,1
+French Guiana,2024,1
+French Polynesia,2009,1
+French Polynesia,2020,1
+French Polynesia,2021,1
+French Polynesia,2022,1
+French Polynesia,2023,1
+French Polynesia,2025,1
+Gabon,1996,1
+Gabon,1997,1
+Gabon,2001,1
+Gabon,2009,1
+Gabon,2021,1
+Gabon,2022,1
+Gabon,2023,1
+Gabon,2024,1
+Gambia,1997,1
+Gambia,2001,1
+Gambia,2012,1
+Gambia,2018,1
+Gambia,2020,1
+Gambia,2021,1
+Gambia,2022,1
+Gambia,2023,1
+Gambia,2024,1
+Georgia,2009,1
+Georgia,2015,1
+Georgia,2019,1
+Georgia,2020,1
+Georgia,2021,1
+Georgia,2023,1
+Georgia,2024,1
+Germany,1999,1
+Germany,2000,1
+Germany,2004,1
+Germany,2009,1
+Germany,2013,1
+Germany,2016,1
+Germany,2017,1
+Germany,2020,1
+Germany,2021,1
+Ghana,1999,1
+Ghana,2003,1
+Ghana,2009,1
+Ghana,2010,1
+Ghana,2019,1
+Ghana,2020,1
+Gibraltar,2020,1
+Gibraltar,2021,1
+Gibraltar,2023,1
+Greece,2002,1
+Greece,2004,1
+Greece,2006,1
+Greece,2009,1
+Greece,2011,1
+Greece,2014,1
+Greece,2019,1
+Greece,2020,1
+Greece,2021,1
+Greece,2023,1
+Greece,2024,1
+Greenland,2020,1
+Greenland,2021,1
+Greenland,2022,1
+Grenada,2009,1
+Grenada,2020,1
+Grenada,2021,1
+Grenada,2022,1
+Grenada,2024,1
+Grenada,2025,1
+Guadeloupe,1997,1
+Guadeloupe,2009,1
+Guadeloupe,2021,1
+Guadeloupe,2022,1
+Guadeloupe,2024,1
+Guam,1998,1
+Guam,2009,1
+Guam,2020,1
+Guam,2021,1
+Guam,2022,1
+Guam,2023,1
+Guam,2025,1
+Guatemala,2009,1
+Guatemala,2010,1
+Guatemala,2015,1
+Guatemala,2020,1
+Guatemala,2021,1
+Guatemala,2022,1
+Guernsey,2009,1
+Guernsey,2020,1
+Guernsey,2021,1
+Guernsey,2022,1
+Guernsey,2023,1
+Guinea,2003,1
+Guinea,2008,1
+Guinea,2013,1
+Guinea,2014,1
+Guinea,2019,1
+Guinea-Bissau,1996,1
+Guinea-Bissau,2005,1
+Guinea-Bissau,2008,1
+Guinea-Bissau,2020,1
+Guinea-Bissau,2021,1
+Guinea-Bissau,2022,1
+Guinea-Bissau,2023,1
+Guyana,2003,1
+Guyana,2004,1
+Guyana,2009,1
+Guyana,2016,1
+Guyana,2020,1
+Guyana,2021,1
+Guyana,2022,1
+Haiti,2009,1
+Haiti,2010,1
+Haiti,2016,1
+Haiti,2020,1
+Haiti,2021,1
+Haiti,2024,1
+Holy See,2020,1
+Honduras,1999,1
+Honduras,2002,1
+Honduras,2009,1
+Honduras,2010,1
+Honduras,2015,1
+Honduras,2020,1
+Honduras,2021,1
+Honduras,2022,1
+Hong Kong,1999,1
+Hong Kong,2002,1
+Hong Kong,2004,1
+Hong Kong,2009,1
+Hong Kong,2010,1
+Hong Kong,2012,1
+Hong Kong,2019,1
+Hong Kong,2025,1
+Hungary,1999,1
+Hungary,2003,1
+Hungary,2004,1
+Hungary,2009,1
+Hungary,2020,1
+Hungary,2021,1
+Hungary,2023,1
+Hungary,2024,1
+Iceland,2003,1
+Iceland,2004,1
+Iceland,2009,1
+Iceland,2020,1
+Iceland,2021,1
+Iceland,2023,1
+Iceland,2024,1
+India,1997,1
+India,1998,1
+India,2001,1
+India,2002,1
+India,2009,1
+India,2010,1
+India,2017,1
+India,2018,1
+India,2020,1
+Indonesia,1996,1
+Indonesia,1998,1
+Indonesia,2003,1
+Indonesia,2006,1
+Indonesia,2007,1
+Indonesia,2008,1
+Indonesia,2009,1
+Indonesia,2010,1
+Indonesia,2011,1
+Indonesia,2012,1
+Indonesia,2019,1
+Indonesia,2020,1
+Indonesia,2021,1
+Iran (Islamic Republic of),1996,1
+Iran (Islamic Republic of),1998,1
+Iran (Islamic Republic of),2006,1
+Iran (Islamic Republic of),2009,1
+Iran (Islamic Republic of),2014,1
+Iran (Islamic Republic of),2015,1
+Iran (Islamic Republic of),2019,1
+Iran (Islamic Republic of),2020,1
+Iran (Islamic Republic of),2021,1
+Iran (Islamic Republic of),2023,1
+Iraq,1996,1
+Iraq,1998,1
+Iraq,1999,1
+Iraq,2003,1
+Iraq,2006,1
+Iraq,2007,1
+Iraq,2008,1
+Iraq,2009,1
+Iraq,2015,1
+Iraq,2019,1
+Iraq,2020,1
+Iraq,2021,1
+Iraq,2023,1
+Iraq,2025,1
+Ireland,2000,1
+Ireland,2003,1
+Ireland,2009,1
+Ireland,2017,1
+Ireland,2020,1
+Ireland,2021,1
+Ireland,2023,1
+Ireland,2024,1
+Isle of Man,2009,1
+Isle of Man,2020,1
+Isle of Man,2021,1
+Isle of Man,2022,1
+Israel,1998,1
+Israel,2000,1
+Israel,2003,1
+Israel,2004,1
+Israel,2009,1
+Israel,2011,1
+Israel,2013,1
+Israel,2019,1
+Israel,2020,1
+Israel,2021,1
+Israel,2023,1
+Italy,2004,1
+Italy,2006,1
+Italy,2009,1
+Italy,2010,1
+Italy,2013,1
+Italy,2020,1
+Italy,2021,1
+Italy,2024,1
+Jamaica,2007,1
+Jamaica,2009,1
+Jamaica,2010,1
+Jamaica,2016,1
+Jamaica,2019,1
+Jamaica,2020,1
+Jamaica,2021,1
+Jamaica,2022,1
+Jamaica,2025,1
+Japan,1996,1
+Japan,1998,1
+Japan,2000,1
+Japan,2003,1
+Japan,2004,1
+Japan,2009,1
+Japan,2018,1
+Japan,2019,1
+Japan,2020,1
+Japan,2021,1
+Japan,2023,1
+Jersey,2009,1
+Jersey,2020,1
+Jersey,2021,1
+Jersey,2022,1
+Jersey,2023,1
+Jordan,2009,1
+Jordan,2013,1
+Jordan,2014,1
+Jordan,2015,1
+Jordan,2020,1
+Jordan,2021,1
+Jordan,2022,1
+Kazakhstan,2005,1
+Kazakhstan,2009,1
+Kazakhstan,2015,1
+Kazakhstan,2019,1
+Kazakhstan,2020,1
+Kazakhstan,2021,1
+Kazakhstan,2022,1
+Kazakhstan,2023,1
+Kazakhstan,2024,1
+Kazakhstan,2025,1
+Kenya,1997,1
+Kenya,1998,1
+Kenya,2004,1
+Kenya,2007,1
+Kenya,2009,1
+Kenya,2010,1
+Kenya,2013,1
+Kenya,2017,1
+Kenya,2019,1
+Kenya,2020,1
+Kiribati,1998,1
+Kiribati,2009,1
+Kiribati,2022,1
+Kiribati,2023,1
+Kiribati,2025,1
+Korea (Democratic People's Republic of),2005,1
+Korea (Democratic People's Republic of),2009,1
+Korea (Democratic People's Republic of),2025,1
+Korea Republic of,2003,1
+Korea Republic of,2004,1
+Korea Republic of,2009,1
+Korea Republic of,2010,1
+Korea Republic of,2018,1
+Korea Republic of,2019,1
+Korea Republic of,2020,1
+Korea Republic of,2021,1
+Korea Republic of,2023,1
+Korea Republic of,2025,1
+Kosovo,1999,1
+Kosovo,2000,1
+Kosovo,2001,1
+Kosovo,2002,1
+Kosovo,2020,1
+Kosovo,2021,1
+Kosovo,2022,1
+Kosovo,2023,1
+Kosovo,2025,1
+Kuwait,2009,1
+Kuwait,2013,1
+Kuwait,2015,1
+Kuwait,2020,1
+Kuwait,2021,1
+Kuwait,2022,1
+Kuwait,2023,1
+Kuwait,2024,1
+Kuwait,2025,1
+Kyrgyzstan,2011,1
+Kyrgyzstan,2015,1
+Kyrgyzstan,2019,1
+Kyrgyzstan,2021,1
+Kyrgyzstan,2022,1
+Kyrgyzstan,2023,1
+Kyrgyzstan,2024,1
+Kyrgyzstan,2025,1
+Lao People's Democratic Republic,1996,1
+Lao People's Democratic Republic,2004,1
+Lao People's Democratic Republic,2005,1
+Lao People's Democratic Republic,2007,1
+Lao People's Democratic Republic,2009,1
+Lao People's Democratic Republic,2015,1
+Lao People's Democratic Republic,2016,1
+Lao People's Democratic Republic,2021,1
+Lao People's Democratic Republic,2022,1
+Lao People's Democratic Republic,2023,1
+Lao People's Democratic Republic,2025,1
+Latvia,2003,1
+Latvia,2004,1
+Latvia,2009,1
+Latvia,2020,1
+Latvia,2021,1
+Latvia,2023,1
+Latvia,2024,1
+Lebanon,2009,1
+Lebanon,2014,1
+Lebanon,2017,1
+Lebanon,2019,1
+Lebanon,2020,1
+Lebanon,2021,1
+Lesotho,2000,1
+Lesotho,2009,1
+Lesotho,2020,1
+Lesotho,2021,1
+Lesotho,2022,1
+Lesotho,2023,1
+Lesotho,2025,1
+Liberia,1997,1
+Liberia,2000,1
+Liberia,2001,1
+Liberia,2002,1
+Liberia,2003,1
+Liberia,2004,1
+Liberia,2005,1
+Liberia,2008,1
+Liberia,2009,1
+Liberia,2014,1
+Liberia,2016,1
+Liberia,2018,1
+Liberia,2020,1
+Liberia,2022,1
+Libya,2009,1
+Libya,2020,1
+Libya,2021,1
+Libya,2022,1
+Libya,2023,1
+Libya,2025,1
+Liechtenstein,2020,1
+Liechtenstein,2021,1
+Liechtenstein,2022,1
+Liechtenstein,2023,1
+Liechtenstein,2024,1
+Liechtenstein,2025,1
+Lithuania,2009,1
+Lithuania,2020,1
+Lithuania,2021,1
+Lithuania,2022,1
+Lithuania,2023,1
+Lithuania,2024,1
+Luxembourg,2009,1
+Luxembourg,2020,1
+Luxembourg,2021,1
+Luxembourg,2023,1
+Luxembourg,2024,1
+Macao,2019,1
+Madagascar,1999,1
+Madagascar,2000,1
+Madagascar,2004,1
+Madagascar,2008,1
+Madagascar,2009,1
+Madagascar,2017,1
+Madagascar,2019,1
+Madagascar,2020,1
+Madagascar,2022,1
+Madagascar,2023,1
+Madagascar,2024,1
+Malawi,1997,1
+Malawi,1999,1
+Malawi,2009,1
+Malawi,2020,1
+Malawi,2021,1
+Malaysia,1998,1
+Malaysia,2003,1
+Malaysia,2009,1
+Malaysia,2010,1
+Malaysia,2014,1
+Malaysia,2018,1
+Malaysia,2019,1
+Malaysia,2020,1
+Malaysia,2021,1
+Malaysia,2022,1
+Malaysia,2023,1
+Maldives,2009,1
+Maldives,2016,1
+Maldives,2020,1
+Maldives,2021,1
+Maldives,2024,1
+Maldives,2025,1
+Mali,1997,1
+Mali,2003,1
+Mali,2004,1
+Mali,2006,1
+Mali,2008,1
+Mali,2010,1
+Mali,2012,1
+Mali,2014,1
+Mali,2019,1
+Mali,2020,1
+Mali,2022,1
+Mali,2023,1
+Malta,2020,1
+Malta,2021,1
+Malta,2023,1
+Malta,2024,1
+Marshall Islands,2009,1
+Marshall Islands,2020,1
+Marshall Islands,2022,1
+Marshall Islands,2023,1
+Marshall Islands,2024,1
+Marshall Islands,2025,1
+Martinique,2009,1
+Martinique,2021,1
+Martinique,2022,1
+Martinique,2024,1
+Mauritania,2003,1
+Mauritania,2005,1
+Mauritania,2010,1
+Mauritania,2012,1
+Mauritania,2021,1
+Mauritius,2009,1
+Mauritius,2020,1
+Mauritius,2021,1
+Mauritius,2022,1
+Mayotte,2021,1
+Mayotte,2022,1
+Mayotte,2023,1
+Mayotte,2024,1
+Mayotte,2025,1
+Mexico,2004,1
+Mexico,2009,1
+Mexico,2010,1
+Mexico,2011,1
+Mexico,2013,1
+Mexico,2019,1
+Mexico,2021,1
+Micronesia (Federated States of),2000,1
+Micronesia (Federated States of),2009,1
+Micronesia (Federated States of),2022,1
+Micronesia (Federated States of),2023,1
+Micronesia (Federated States of),2025,1
+Moldova Republic of,2009,1
+Moldova Republic of,2020,1
+Moldova Republic of,2021,1
+Moldova Republic of,2023,1
+Moldova Republic of,2024,1
+Monaco,2009,1
+Monaco,2020,1
+Monaco,2021,1
+Monaco,2022,1
+Monaco,2023,1
+Mongolia,1996,1
+Mongolia,2005,1
+Mongolia,2009,1
+Mongolia,2020,1
+Mongolia,2021,1
+Mongolia,2022,1
+Mongolia,2023,1
+Mongolia,2024,1
+Montenegro,2004,1
+Montenegro,2009,1
+Montenegro,2020,1
+Montenegro,2021,1
+Montenegro,2022,1
+Montenegro,2023,1
+Montenegro,2025,1
+Montserrat,2020,1
+Montserrat,2021,1
+Montserrat,2022,1
+Montserrat,2023,1
+Montserrat,2024,1
+Morocco,2003,1
+Morocco,2004,1
+Morocco,2009,1
+Morocco,2020,1
+Morocco,2021,1
+Morocco,2023,1
+Morocco,2024,1
+Mozambique,1996,1
+Mozambique,1999,1
+Mozambique,2003,1
+Mozambique,2004,1
+Mozambique,2009,1
+Mozambique,2018,1
+Mozambique,2019,1
+Mozambique,2020,1
+Mozambique,2021,1
+Mozambique,2024,1
+Myanmar,1998,1
+Myanmar,2007,1
+Myanmar,2009,1
+Myanmar,2015,1
+Myanmar,2020,1
+Myanmar,2021,1
+Myanmar,2022,1
+Myanmar,2023,1
+Namibia,1999,1
+Namibia,2006,1
+Namibia,2009,1
+Namibia,2018,1
+Nauru,2009,1
+Nauru,2022,1
+Nauru,2023,1
+Nauru,2025,1
+Nepal,1996,1
+Nepal,1997,1
+Nepal,2009,1
+Nepal,2020,1
+Nepal,2021,1
+Netherlands,1999,1
+Netherlands,2008,1
+Netherlands,2009,1
+Netherlands,2011,1
+Netherlands,2014,1
+Netherlands,2016,1
+Netherlands,2017,1
+Netherlands,2019,1
+Netherlands,2020,1
+Netherlands,2021,1
+New Caledonia,1998,1
+New Caledonia,2009,1
+New Caledonia,2020,1
+New Caledonia,2021,1
+New Caledonia,2022,1
+New Caledonia,2023,1
+New Zealand,2009,1
+New Zealand,2010,1
+New Zealand,2019,1
+New Zealand,2020,1
+New Zealand,2021,1
+New Zealand,2022,1
+New Zealand,2023,1
+New Zealand,2024,1
+New Zealand,2025,1
+Nicaragua,1999,1
+Nicaragua,2009,1
+Nicaragua,2010,1
+Nicaragua,2016,1
+Nicaragua,2020,1
+Nicaragua,2021,1
+Nicaragua,2022,1
+Nicaragua,2025,1
+Niger,1997,1
+Niger,1999,1
+Niger,2003,1
+Niger,2005,1
+Niger,2006,1
+Niger,2009,1
+Niger,2013,1
+Niger,2015,1
+Niger,2016,1
+Niger,2017,1
+Niger,2019,1
+Niger,2020,1
+Nigeria,2000,1
+Nigeria,2001,1
+Nigeria,2006,1
+Nigeria,2007,1
+Nigeria,2011,1
+Nigeria,2013,1
+Nigeria,2014,1
+Nigeria,2015,1
+Niue,2022,1
+Niue,2023,1
+Niue,2024,1
+Niue,2025,1
+North Macedonia,2009,1
+North Macedonia,2011,1
+North Macedonia,2020,1
+North Macedonia,2021,1
+North Macedonia,2022,1
+North Macedonia,2023,1
+North Macedonia,2024,1
+Northern Mariana Islands,2020,1
+Northern Mariana Islands,2021,1
+Northern Mariana Islands,2022,1
+Northern Mariana Islands,2023,1
+Northern Mariana Islands,2024,1
+Northern Mariana Islands,2025,1
+Norway,2003,1
+Norway,2004,1
+Norway,2009,1
+Norway,2011,1
+Norway,2017,1
+Norway,2020,1
+Norway,2021,1
+Norway,2023,1
+Norway,2024,1
+Oman,2009,1
+Oman,2013,1
+Oman,2015,1
+Oman,2016,1
+Oman,2017,1
+Oman,2018,1
+Oman,2019,1
+Oman,2020,1
+Oman,2021,1
+Pakistan,1998,1
+Pakistan,2002,1
+Pakistan,2007,1
+Pakistan,2008,1
+Pakistan,2009,1
+Pakistan,2011,1
+Pakistan,2016,1
+Pakistan,2018,1
+Pakistan,2020,1
+Pakistan,2024,1
+Palau,2021,1
+Palau,2022,1
+Palau,2023,1
+Palau,2025,1
+Palestine State of,1997,1
+Palestine State of,2009,1
+Palestine State of,2021,1
+Panama,2000,1
+Panama,2009,1
+Panama,2010,1
+Panama,2015,1
+Panama,2019,1
+Panama,2020,1
+Panama,2021,1
+Papua New Guinea,2009,1
+Papua New Guinea,2016,1
+Papua New Guinea,2018,1
+Papua New Guinea,2019,1
+Papua New Guinea,2020,1
+Papua New Guinea,2021,1
+Papua New Guinea,2022,1
+Papua New Guinea,2023,1
+Papua New Guinea,2025,1
+Paraguay,2008,1
+Paraguay,2009,1
+Paraguay,2015,1
+Paraguay,2020,1
+Paraguay,2021,1
+Paraguay,2022,1
+Paraguay,2024,1
+Peru,1998,1
+Peru,1999,1
+Peru,2001,1
+Peru,2009,1
+Peru,2020,1
+Peru,2021,1
+Peru,2022,1
+Philippines,1998,1
+Philippines,2003,1
+Philippines,2005,1
+Philippines,2010,1
+Philippines,2015,1
+Philippines,2020,1
+Philippines,2021,1
+Philippines,2024,1
+Philippines,2025,1
+Pitcairn,2022,1
+Poland,2003,1
+Poland,2009,1
+Poland,2020,1
+Poland,2021,1
+Poland,2024,1
+Portugal,2003,1
+Portugal,2004,1
+Portugal,2009,1
+Portugal,2012,1
+Portugal,2014,1
+Portugal,2015,1
+Portugal,2017,1
+Portugal,2020,1
+Portugal,2021,1
+Portugal,2023,1
+Portugal,2024,1
+Puerto Rico,2009,1
+Puerto Rico,2020,1
+Puerto Rico,2021,1
+Puerto Rico,2022,1
+Puerto Rico,2024,1
+Qatar,2009,1
+Qatar,2013,1
+Qatar,2014,1
+Qatar,2015,1
+Qatar,2016,1
+Qatar,2017,1
+Qatar,2019,1
+Qatar,2021,1
+Qatar,2023,1
+Romania,1996,1
+Romania,2003,1
+Romania,2004,1
+Romania,2005,1
+Romania,2009,1
+Romania,2020,1
+Romania,2021,1
+Romania,2023,1
+Romania,2024,1
+Russian Federation,1999,1
+Russian Federation,2003,1
+Russian Federation,2004,1
+Russian Federation,2005,1
+Russian Federation,2009,1
+Russian Federation,2011,1
+Russian Federation,2015,1
+Russian Federation,2019,1
+Russian Federation,2020,1
+Russian Federation,2022,1
+Russian Federation,2023,1
+Russian Federation,2024,1
+Rwanda,1998,1
+Rwanda,2002,1
+Rwanda,2009,1
+Rwanda,2010,1
+Rwanda,2020,1
+Rwanda,2021,1
+Rwanda,2022,1
+Rwanda,2023,1
+Réunion,2006,1
+Réunion,2009,1
+Réunion,2018,1
+Réunion,2019,1
+Réunion,2020,1
+Réunion,2021,1
+Réunion,2022,1
+Réunion,2023,1
+Réunion,2024,1
+Réunion,2025,1
+Saint Barthélemy,2021,1
+Saint Barthélemy,2022,1
+Saint Barthélemy,2024,1
+Saint Helena Ascension and Tristan da Cunha,2022,1
+Saint Kitts and Nevis,2009,1
+Saint Kitts and Nevis,2020,1
+Saint Kitts and Nevis,2021,1
+Saint Kitts and Nevis,2022,1
+Saint Kitts and Nevis,2024,1
+Saint Lucia,2009,1
+Saint Lucia,2016,1
+Saint Lucia,2020,1
+Saint Lucia,2021,1
+Saint Lucia,2022,1
+Saint Martin (French part),2009,1
+Saint Martin (French part),2013,1
+Saint Martin (French part),2021,1
+Saint Martin (French part),2022,1
+Saint Martin (French part),2024,1
+Saint Pierre and Miquelon,2020,1
+Saint Pierre and Miquelon,2021,1
+Saint Pierre and Miquelon,2022,1
+Saint Pierre and Miquelon,2023,1
+Saint Vincent and the Grenadines,2009,1
+Saint Vincent and the Grenadines,2016,1
+Saint Vincent and the Grenadines,2020,1
+Saint Vincent and the Grenadines,2021,1
+Saint Vincent and the Grenadines,2022,1
+Saint Vincent and the Grenadines,2024,1
+Samoa,2009,1
+Samoa,2019,1
+Samoa,2020,1
+Samoa,2021,1
+Samoa,2022,1
+Samoa,2023,1
+Samoa,2025,1
+San Marino,2020,1
+San Marino,2021,1
+San Marino,2022,1
+San Marino,2023,1
+Sao Tome and Principe,2009,1
+Sao Tome and Principe,2010,1
+Sao Tome and Principe,2020,1
+Sao Tome and Principe,2021,1
+Saudi Arabia,1996,1
+Saudi Arabia,1998,1
+Saudi Arabia,2000,1
+Saudi Arabia,2001,1
+Saudi Arabia,2009,1
+Saudi Arabia,2013,1
+Saudi Arabia,2014,1
+Saudi Arabia,2015,1
+Saudi Arabia,2016,1
+Saudi Arabia,2017,1
+Saudi Arabia,2018,1
+Saudi Arabia,2019,1
+Saudi Arabia,2024,1
+Senegal,1996,1
+Senegal,1997,1
+Senegal,1999,1
+Senegal,2002,1
+Senegal,2004,1
+Senegal,2005,1
+Senegal,2011,1
+Senegal,2014,1
+Senegal,2015,1
+Senegal,2022,1
+Senegal,2023,1
+Serbia,2004,1
+Serbia,2009,1
+Serbia,2015,1
+Serbia,2019,1
+Serbia,2020,1
+Serbia,2021,1
+Serbia,2023,1
+Seychelles,2009,1
+Seychelles,2017,1
+Seychelles,2020,1
+Seychelles,2021,1
+Seychelles,2022,1
+Sierra Leone,1996,1
+Sierra Leone,1997,1
+Sierra Leone,1998,1
+Sierra Leone,2000,1
+Sierra Leone,2003,1
+Sierra Leone,2004,1
+Sierra Leone,2009,1
+Sierra Leone,2011,1
+Sierra Leone,2012,1
+Sierra Leone,2014,1
+Sierra Leone,2020,1
+Sierra Leone,2024,1
+Singapore,1999,1
+Singapore,2000,1
+Singapore,2001,1
+Singapore,2003,1
+Singapore,2009,1
+Singapore,2010,1
+Singapore,2019,1
+Singapore,2020,1
+Singapore,2021,1
+Singapore,2023,1
+Sint Maarten (Dutch part),2009,1
+Sint Maarten (Dutch part),2020,1
+Sint Maarten (Dutch part),2021,1
+Sint Maarten (Dutch part),2022,1
+Sint Maarten (Dutch part),2024,1
+Slovakia,2009,1
+Slovakia,2020,1
+Slovakia,2021,1
+Slovakia,2023,1
+Slovakia,2024,1
+Slovenia,2003,1
+Slovenia,2004,1
+Slovenia,2006,1
+Slovenia,2009,1
+Slovenia,2017,1
+Slovenia,2020,1
+Slovenia,2021,1
+Slovenia,2023,1
+Slovenia,2024,1
+Solomon Islands,2009,1
+Solomon Islands,2020,1
+Solomon Islands,2021,1
+Solomon Islands,2022,1
+Solomon Islands,2023,1
+Solomon Islands,2024,1
+Solomon Islands,2025,1
+Somalia,1996,1
+Somalia,1997,1
+Somalia,1999,1
+Somalia,2000,1
+Somalia,2001,1
+Somalia,2006,1
+Somalia,2009,1
+Somalia,2013,1
+Somalia,2020,1
+Somalia,2021,1
+South Africa,1999,1
+South Africa,2000,1
+South Africa,2001,1
+South Africa,2003,1
+South Africa,2004,1
+South Africa,2009,1
+South Africa,2018,1
+South Africa,2020,1
+South Africa,2021,1
+South Sudan,2014,1
+South Sudan,2016,1
+Spain,1996,1
+Spain,1997,1
+Spain,2001,1
+Spain,2004,1
+Spain,2009,1
+Spain,2013,1
+Spain,2014,1
+Spain,2015,1
+Spain,2017,1
+Spain,2020,1
+Spain,2021,1
+Spain,2024,1
+Sri Lanka,2005,1
+Sri Lanka,2009,1
+Sri Lanka,2017,1
+Sri Lanka,2020,1
+Sri Lanka,2021,1
+Sri Lanka,2022,1
+Sudan,1998,1
+Sudan,2000,1
+Sudan,2008,1
+Sudan,2010,1
+Sudan,2013,1
+Sudan,2018,1
+Sudan,2021,1
+Sudan,2024,1
+Suriname,2009,1
+Suriname,2015,1
+Suriname,2017,1
+Suriname,2020,1
+Suriname,2021,1
+Suriname,2022,1
+Sweden,2004,1
+Sweden,2009,1
+Sweden,2011,1
+Sweden,2016,1
+Sweden,2017,1
+Sweden,2020,1
+Sweden,2021,1
+Sweden,2025,1
+Switzerland,1996,1
+Switzerland,2004,1
+Switzerland,2009,1
+Switzerland,2011,1
+Switzerland,2020,1
+Switzerland,2021,1
+Switzerland,2024,1
+Syrian Arab Republic,2009,1
+Syrian Arab Republic,2013,1
+Syrian Arab Republic,2014,1
+Syrian Arab Republic,2017,1
+Syrian Arab Republic,2020,1
+Syrian Arab Republic,2021,1
+Syrian Arab Republic,2023,1
+Taiwan Province of China,2003,1
+Tajikistan,1996,1
+Tajikistan,1997,1
+Tajikistan,2009,1
+Tajikistan,2010,1
+Tajikistan,2020,1
+Tajikistan,2021,1
+Tajikistan,2022,1
+Tanzania United Republic of,1997,1
+Tanzania United Republic of,1999,1
+Tanzania United Republic of,2002,1
+Tanzania United Republic of,2007,1
+Tanzania United Republic of,2009,1
+Tanzania United Republic of,2010,1
+Tanzania United Republic of,2015,1
+Tanzania United Republic of,2018,1
+Tanzania United Republic of,2019,1
+Tanzania United Republic of,2020,1
+Tanzania United Republic of,2021,1
+Tanzania United Republic of,2024,1
+Thailand,1996,1
+Thailand,1998,1
+Thailand,2004,1
+Thailand,2005,1
+Thailand,2009,1
+Thailand,2010,1
+Thailand,2015,1
+Thailand,2016,1
+Thailand,2020,1
+Thailand,2021,1
+Thailand,2022,1
+Timor-Leste,2005,1
+Timor-Leste,2009,1
+Timor-Leste,2020,1
+Timor-Leste,2021,1
+Timor-Leste,2023,1
+Timor-Leste,2024,1
+Timor-Leste,2025,1
+Togo,1997,1
+Togo,2003,1
+Togo,2006,1
+Togo,2007,1
+Togo,2016,1
+Togo,2019,1
+Tokelau,2022,1
+Tokelau,2023,1
+Tokelau,2024,1
+Tokelau,2025,1
+Tonga,2009,1
+Tonga,2019,1
+Tonga,2021,1
+Tonga,2022,1
+Tonga,2023,1
+Tonga,2025,1
+Trinidad and Tobago,2009,1
+Trinidad and Tobago,2016,1
+Trinidad and Tobago,2020,1
+Trinidad and Tobago,2021,1
+Trinidad and Tobago,2022,1
+Trinidad and Tobago,2024,1
+Trinidad and Tobago,2025,1
+Tunisia,2003,1
+Tunisia,2009,1
+Tunisia,2013,1
+Tunisia,2019,1
+Tunisia,2020,1
+Tunisia,2021,1
+Tunisia,2022,1
+Tunisia,2023,1
+Turkey,2005,1
+Turkey,2009,1
+Turkey,2014,1
+Turkey,2019,1
+Turkey,2020,1
+Turkey,2021,1
+Turkey,2022,1
+Turkey,2024,1
+Turks and Caicos Islands,2009,1
+Turks and Caicos Islands,2020,1
+Turks and Caicos Islands,2021,1
+Turks and Caicos Islands,2022,1
+Turks and Caicos Islands,2025,1
+Tuvalu,2009,1
+Tuvalu,2022,1
+Tuvalu,2023,1
+Tuvalu,2024,1
+Tuvalu,2025,1
+Uganda,1996,1
+Uganda,1997,1
+Uganda,1999,1
+Uganda,2001,1
+Uganda,2006,1
+Uganda,2008,1
+Uganda,2009,1
+Uganda,2014,1
+Uganda,2015,1
+Uganda,2016,1
+Uganda,2017,1
+Uganda,2019,1
+Uganda,2021,1
+Ukraine,2003,1
+Ukraine,2004,1
+Ukraine,2009,1
+Ukraine,2015,1
+Ukraine,2019,1
+Ukraine,2020,1
+Ukraine,2022,1
+Ukraine,2023,1
+Ukraine,2024,1
+United Arab Emirates,2009,1
+United Arab Emirates,2013,1
+United Arab Emirates,2014,1
+United Arab Emirates,2015,1
+United Arab Emirates,2016,1
+United Arab Emirates,2017,1
+United Arab Emirates,2018,1
+United Arab Emirates,2019,1
+United Kingdom of Great Britain and Northern Ireland,1996,1
+United Kingdom of Great Britain and Northern Ireland,2004,1
+United Kingdom of Great Britain and Northern Ireland,2007,1
+United Kingdom of Great Britain and Northern Ireland,2009,1
+United Kingdom of Great Britain and Northern Ireland,2012,1
+United Kingdom of Great Britain and Northern Ireland,2013,1
+United Kingdom of Great Britain and Northern Ireland,2014,1
+United Kingdom of Great Britain and Northern Ireland,2016,1
+United Kingdom of Great Britain and Northern Ireland,2017,1
+United Kingdom of Great Britain and Northern Ireland,2018,1
+United Kingdom of Great Britain and Northern Ireland,2019,1
+United Kingdom of Great Britain and Northern Ireland,2020,1
+United Kingdom of Great Britain and Northern Ireland,2024,1
+United States of America,1998,1
+United States of America,2001,1
+United States of America,2002,1
+United States of America,2006,1
+United States of America,2007,1
+United States of America,2009,1
+United States of America,2012,1
+United States of America,2019,1
+United States of America,2020,1
+Uruguay,2009,1
+Uruguay,2010,1
+Uruguay,2016,1
+Uruguay,2020,1
+Uruguay,2021,1
+Uruguay,2022,1
+Uruguay,2025,1
+Uzbekistan,2020,1
+Uzbekistan,2021,1
+Uzbekistan,2022,1
+Uzbekistan,2023,1
+Uzbekistan,2024,1
+Vanuatu,2009,1
+Vanuatu,2020,1
+Vanuatu,2021,1
+Vanuatu,2022,1
+Vanuatu,2023,1
+Vanuatu,2024,1
+Vanuatu,2025,1
+Venezuela (Bolivarian Republic of),1996,1
+Venezuela (Bolivarian Republic of),2004,1
+Venezuela (Bolivarian Republic of),2009,1
+Venezuela (Bolivarian Republic of),2010,1
+Venezuela (Bolivarian Republic of),2015,1
+Venezuela (Bolivarian Republic of),2020,1
+Venezuela (Bolivarian Republic of),2024,1
+Venezuela (Bolivarian Republic of),2025,1
+Viet Nam,1998,1
+Viet Nam,2003,1
+Viet Nam,2004,1
+Viet Nam,2005,1
+Viet Nam,2007,1
+Viet Nam,2009,1
+Viet Nam,2010,1
+Viet Nam,2012,1
+Viet Nam,2016,1
+Viet Nam,2019,1
+Viet Nam,2020,1
+Viet Nam,2021,1
+Viet Nam,2022,1
+Viet Nam,2023,1
+Viet Nam,2025,1
+Virgin Islands (British),2009,1
+Virgin Islands (British),2020,1
+Virgin Islands (British),2021,1
+Virgin Islands (British),2022,1
+Virgin Islands (British),2025,1
+Virgin Islands (U.S.),2009,1
+Virgin Islands (U.S.),2020,1
+Virgin Islands (U.S.),2021,1
+Virgin Islands (U.S.),2022,1
+Virgin Islands (U.S.),2023,1
+Virgin Islands (U.S.),2024,1
+Wallis and Futuna,2009,1
+Wallis and Futuna,2020,1
+Wallis and Futuna,2021,1
+Wallis and Futuna,2022,1
+Wallis and Futuna,2023,1
+Wallis and Futuna,2025,1
+Yemen,2005,1
+Yemen,2009,1
+Yemen,2014,1
+Yemen,2017,1
+Yemen,2019,1
+Yemen,2020,1
+Zambia,1997,1
+Zambia,1999,1
+Zambia,2001,1
+Zambia,2004,1
+Zambia,2009,1
+Zambia,2011,1
+Zambia,2017,1
+Zambia,2019,1
+Zambia,2020,1
+Zambia,2021,1
+Zambia,2024,1
+Zimbabwe,1997,1
+Zimbabwe,1998,1
+Zimbabwe,2008,1
+Zimbabwe,2018,1
+Zimbabwe,2020,1
+Zimbabwe,2021,1
+Zimbabwe,2023,1
+Zimbabwe,2024,1
