@@ -423,13 +423,9 @@ Consequently, the analysis cannot estimate:
 - transmission rates
 - reproduction numbers
 
-#Zero values
+# Zero values
 
-Zeros introduced when constructing the complete country-year panel represent:
-
-> no outbreak record observed in the dataset
-
-rather than confirmed absence of disease.
+Zeros introduced when constructing the complete country-year panel represent no outbreak record observed in the dataset rather than confirmed absence of disease.
 
 # Surveillance and reporting
 
@@ -462,14 +458,14 @@ It does not establish:
 The analysis is organised into sequential R scripts:
 
 R/
-├── 01_data_cleaning.R
-├── 02_data_quality.R
-├── 03_descriptive_epidemiology.R
-├── 04_temporal_analysis.R
-├── 05_disease_region_association.R
-├── 06_count_modelling.R
-├── 07_sensitivity_analyses.R
-└── 08_spatial_analysis.R
+-01_data_cleaning.R
+-02_data_quality.R
+-03_descriptive_epidemiology.R
+-04_temporal_analysis.R
+-05_disease_region_association.R
+-06_count_modelling.R
+-07_sensitivity_analyses.R
+-08_spatial_analysis.R
 
 # Methods and R packages
 
